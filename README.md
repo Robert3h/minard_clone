@@ -12,3 +12,4 @@ Russian campaign of 1812](https://en.wikipedia.org/wiki/Charles_Joseph_Minard#/m
 `minard.db`
 啟動環境並執行 `python plot_with_basemap.py` 就能生成 `minard_clone.png`
 
+![圖片](minard_clone_viz.png "圖片 Title")
